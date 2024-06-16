@@ -35,3 +35,6 @@
 ### Media Queries
 - Adjust layout for screens wider and narrower than 600px
 - Reordering form elements for better mobile usability
+
+##Side note
+- The given example for used cars contains a mathematical error: a 30% down payment on €57,900 is incorrectly stated as €5,790, whereas the correct amount is €17,370.00.
